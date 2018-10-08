@@ -21,10 +21,13 @@ header
 
 nav
 {
-float: lef;
-width: 30%;
-background: #4682B4;
-padding: 20px;
+	display: block;
+	float: left;
+	height: 200px;
+	width: 15%;
+	background: #4682B4;
+	padding: 20px;
+	text-align: center;
 }
 
 nav ul
@@ -35,15 +38,20 @@ nav ul
 
 article
 {
-	float: left;
+	float: right;
 	padding: 20px;
-	width: 70%;
+	width: 85%;
 	background-color: #B0C4DE;
 	min-height: 300px;
 }
 
 footer
 {
+	clear: both;
+	position: relative;
+	z-index: 10;
+	height: 3em;
+	margin-top: -3em;
 	background-color: #777;
 	padding: 10px;
 	text-align: center;
