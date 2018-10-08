@@ -6,17 +6,17 @@
 body
 {
 	font-family: Arial, Helvetica, sans-serif;
-	background-color: #C0C0C0;
+	background-color: #000000;
 	color: #000000;
 }
 
 header
 {
-	background-color: #708090;
+	background-color: #000000;
 	padding: 30px;
 	text-align: center;
 	font-size: 35px;
-	color: #FFF8DC;
+	color: #32CD32;
 }
 
 nav
@@ -24,8 +24,8 @@ nav
 	display: block;
 	float: left;
 	height: 200px;
-	width: 15%;
-	background: #4682B4;
+	width: 8%;
+	background: #556B2F;
 	padding: 20px;
 	text-align: center;
 }
@@ -34,15 +34,28 @@ nav ul
 {
 	list-style-type: none;
 	padding: 0;
+	color: #ADFF2F;
+}
+
+nav ul, nav ul:visited, nav ul:active
+{
+	color: #7CFC00;
+}
+
+nav ul:hover
+{
+	color: #000000;
+	background-color: #ADFF2F;
 }
 
 article
 {
 	float: right;
 	padding: 20px;
-	width: 85%;
-	background-color: #B0C4DE;
+	width: 92%;
+	background-color: #2F4F4F;
 	min-height: 300px;
+	color: #ADFF2F;
 }
 
 footer
@@ -52,9 +65,8 @@ footer
 	z-index: 10;
 	height: 3em;
 	margin-top: -3em;
-	background-color: #777;
 	padding: 10px;
 	text-align: center;
-	color: white;
+	color: #32CD32;
 	min-height: 30px;
 }
