@@ -21,25 +21,16 @@ header
 
 nav
 {
-	display: block;
-	float: left;
-	height: 200px;
-	width: 8%;
-	background: #556B2F;
-	padding: 20px;
-	text-align: center;
+    overflow: hidden;
+	background-color: #556B2F;
 }
 
 nav ul
-{
-	list-style-type: none;
-	padding: 0;
+{	float: left;
+    display: block;
 	color: #ADFF2F;
-}
-
-nav ul, nav ul:visited, nav ul:active
-{
-	color: #7CFC00;
+    text-align: center;
+    padding: 14px 16px;
 }
 
 nav ul:hover
@@ -52,10 +43,23 @@ article
 {
 	float: right;
 	padding: 20px;
-	width: 92%;
+	width: 100%;
 	background-color: #2F4F4F;
 	min-height: 300px;
 	color: #ADFF2F;
+}
+
+column
+{
+	float: left;
+	width: 50%;
+}
+
+row:after
+{
+	content: "";
+	display: table;
+	clear: both;
 }
 
 footer
