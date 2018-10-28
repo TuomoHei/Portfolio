@@ -1,0 +1,58 @@
+4. Week 39 - HTML Layout & HTML Tables
+
+As informed earlier, from this week on you will follow learning materials
+in Moodle and continue to develop your web pages.
+This week, you will learn more on html layouts and to create html tables.
+The learning material for Week 39 is available in the book.
+It is a video instruction that was prepared during the last year.
+Please go through the video and work on your layout.
+
+Please watch the video below for more instructions on
+how to create layout for your web pages and html tables.
+https://www.youtube.com/watch?v=RXFPdFj9AiA
+
+You can also check this website for more instruction on
+creating layouts for html pages. 
+https://www.codementor.io/codementorteam/4-different-html-css-layout-techniques-to-create-a-site-85i9t1x34
+
+---------------------------------------
+
+5. Week 40 & Week 41 - HTML forms, Form validation (JS) & Integrating Audio & Video
+
+Please watch the video instruction which was prepared last year that will
+help you integrate a form in your web pages. It also contains a link that
+explains creating forms in more details. You will use Week 40 & Week 41 to
+learn HTML forms and simple validation techniques.
+
+https://www.youtube.com/watch?v=-xYhy8HTXP4
+
+For more information on creating simple HTML forms, please read instructions
+available at this link: https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form
+
+---------------------------------------
+
+6. Week 43 - Location aware web pages
+
+After watching videos, you should be able to complete the following task.
+Geolocation should be used to create location-aware web pages.
+5 Points: You can either integrate google map to your website or write code
+to display the current location of the user visiting your webpage.
+
+Geo Location in HTML5
+https://www.youtube.com/watch?v=SVWXh61WeGo
+
+Example: using google map in your website
+https://www.youtube.com/watch?v=9CY0V0JAgNU
+
+Google Maps API guide:
+https://developers.google.com/maps/documentation/javascript/get-api-key
+
+Find your latitude and logitude: http://www.latlong.net/
+
+---------------------------------------
+
+7. Useful Resources
+
+    HTML Tags: https://www.w3schools.com/tags/
+    HTML5 Demos & Exmaples: http://corehtml5canvas.com/code-live/
+    HTML5 Examples: http://corehtml5canvas.com/code-live/
