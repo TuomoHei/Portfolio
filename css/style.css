@@ -62,6 +62,17 @@ row:after
 	clear: both;
 }
 
+table
+{
+	border-spacing: 5px;
+}
+
+table, th, td
+{
+	border: 1px solid red;
+	padding: 15px;
+}
+	
 footer
 {
 	clear: both;
