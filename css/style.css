@@ -47,6 +47,7 @@ article
 	background-color: #2F4F4F;
 	min-height: 300px;
 	color: #ADFF2F;
+	text-shadow: 2px 2px #000000;
 }
 
 column
@@ -69,7 +70,8 @@ table
 
 table, th, td
 {
-	border: 1px solid red;
+	border: 1px solid #ADFF2F;
+	border-collapse: collapse;
 	padding: 15px;
 }
 	
