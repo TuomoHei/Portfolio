@@ -3,6 +3,26 @@
 	<head>
 		<title>My Portfolio: Extras</title>
 		<link rel="stylesheet" href="css/style.css">
+		<script>
+			function showLocation()
+			{
+				if (navigator.geolocation)
+				{
+					navigator.geolocation.getCurrentPosition(showPosition);
+				}
+				
+				else
+				{
+					alert("Your browser does not support geolocation");
+				}
+			}
+			
+			function showPosition(position)
+			{
+				alert("Latitude: " + position.coords.latitude + " Longitude: " + position.coords.longitude);
+			}
+			
+		</script>
 	</head>
 	
 	<body>
@@ -47,6 +67,9 @@
 			<iframe width="320" height="180" src="https://www.youtube.com/embed/5WlTt3K_Ruw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			<br>
 			<p>Audio integration</p>
+			<br>
+			<p>Click below to get your position</p>
+			<button onclick="showLocation()"> Click </button>
 		</article>
 		
 		<footer>
