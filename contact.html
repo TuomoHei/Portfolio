@@ -2,7 +2,31 @@
 <html>
 	<head>
 		<title>My Portfolio: Contact</title>
-			<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/style.css">
+		<script>
+			function validateForm()
+			{
+				if (document.forms["myForm"]["fname"].value == null || document.forms["myForm"]["fname"].value.trim() == "")
+				{
+					alert("First name must be filled out");
+					return false;
+				}
+				
+				if (document.forms["myForm"]["lname"].value == null || document.forms["myForm"]["lname"].value.trim() == "")
+				{
+					alert("Last name must be filled out");
+					return false;
+				}
+				
+				if (document.forms["myForm"]["email"].value == null || document.forms["myForm"]["email"].value.trim() == "")
+				{
+					alert("E-mail must be filled out");
+					return false;
+				}
+				
+				return true;
+			}
+		</script>
 	</head>
 	
 	<body>
@@ -35,23 +59,31 @@
 		<article>
 			<h1>Contact</h1>
 			
-			<form>
+			<form name="myForm" action="mailto:tumpp1zon3official@gmail.com" method="post" onsubmit="return validateForm()">
 			First name: <br>
-			<input type="text" name="fname"> <br>
+			<select name="hname">
+			<option></option>
+			<option>Mr.</option>
+			<option>Mrs.</option>
+			<option>Ms.</option>
+			<option>Miss</option>
+			<option>Dr.</option>
+			<input type="text" name="fname"><br>
 			<br>
 			Last name: <br>
-			<input type="text" name="lname"> <br>
-			<br>
-			Gender: <br>
-			<input type="radio" name="gender" value="male" checked> Male <br>
-			<input type="radio" name="gender" value="female"> Female <br>
-			<input type="radio" name="gender" value="other"> Other <br>
+			<input type="text" name="lname"><br>
 			<br>
 			E-mail: <br>
 			<input type="email" name="email"><br>
-			<input type="submit" value="Submit">
 			<br>
-			
+			Contact type: <br>
+			<input type="radio" name="reason" value="business" checked> Business <br>
+			<input type="radio" name="reason" value="other"> Other <br>
+			<br>
+			Message: <br>
+			<textarea rows="10" cols="50"></textarea><br>
+			<br>
+			<input type="submit" value="Submit"><br>
 			</form>
 		</article>
 		
