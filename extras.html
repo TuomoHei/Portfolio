@@ -2,7 +2,27 @@
 <html>
 	<head>
 		<title>My Portfolio: Extras</title>
-			<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/style.css">
+		<script>
+			function showLocation()
+			{
+				if (navigator.geolocation)
+				{
+					navigator.geolocation.getCurrentPosition(showPosition);
+				}
+				
+				else
+				{
+					alert("Your browser does not support geolocation");
+				}
+			}
+			
+			function showPosition(position)
+			{
+				alert("Latitude: " + position.coords.latitude + " Longitude: " + position.coords.longitude);
+			}
+			
+		</script>
 	</head>
 	
 	<body>
@@ -12,30 +32,44 @@
 		
 		<nav>
 			<ul>
-				<a href="index.html" > Main page </a>
+				<a href="index.html"> Main page </a>
 			</ul>
 			
 			<ul>
-				<a href="projects.html" > Projects </a>
+				<a href="projects.html"> Projects </a>
 			</ul>
 			
 			<ul>
-				<a href="about.html" > About me </a>
+				<a href="about.html"> About me </a>
 			</ul>
 			
 			<ul>
-				<a href="contact.html" > Contact </a>
+				<a href="contact.html"> Contact </a>
 			</ul>
 			
 			<ul>
-				<a href="extras.html" > Extras </a>
+				<a href="extras.html"> Extras </a>
 			</ul>
 		</nav>
 		
 		<article>
-			<h1>Extras a.k.a. things that are made in this course but I don't want to use them...</h1>
+			<h1>Extras a.k.a. things that are made in this course but I don't might need them...</h1>
 
+			<p>Other image integration</p>
 			<img src="images/asd.png" width="200px" height="250px" text-align="right">
+			<br>
+			<p>Video integration</p>
+			<video width="320" height="240" controls>
+			<source src="" type="video/mp4">
+			Your browser does not support the video tag.
+			</video>
+			<br>
+			<iframe width="320" height="180" src="https://www.youtube.com/embed/5WlTt3K_Ruw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<br>
+			<p>Audio integration</p>
+			<br>
+			<p>Click below to get your position</p>
+			<button onclick="showLocation()"> Click </button>
 		</article>
 		
 		<footer>
