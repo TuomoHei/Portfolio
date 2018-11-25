@@ -4,24 +4,6 @@
 		<title>My Portfolio: Extras</title>
 		<link rel="stylesheet" href="css/style.css">
 		<script>
-			function showLocation()
-			{
-				if (navigator.geolocation)
-				{
-					navigator.geolocation.getCurrentPosition(showPosition);
-				}
-				
-				else
-				{
-					alert("Your browser does not support geolocation");
-				}
-			}
-			
-			function showPosition(position)
-			{
-				alert("Latitude: " + position.coords.latitude + " Longitude: " + position.coords.longitude);
-			}
-			
 			function allowDrop(ev)
 			{
 				ev.preventDefault();
@@ -95,8 +77,29 @@
 			
 			<br>
 			
-			<p>Click below to get your position (this will open alert box)</p>
-			<button onclick="showLocation()"> Click </button>
+			<p>Get your location by clicking the button below</p>
+			<button onclick="getLocation()">Click</button>
+			<p id="demo"></p>
+				<script>
+				var x = document.getElementById("demo");
+
+				function getLocation()
+				{
+					if (navigator.geolocation)
+					{
+						navigator.geolocation.watchPosition(showPosition);
+					}
+					
+					else
+					{ 
+						x.innerHTML = "Geolocation is not supported by this browser.";}
+					}
+					
+				function showPosition(position)
+				{
+					x.innerHTML="Latitude: " + position.coords.latitude + "<br>Longitude: " + position.coords.longitude;
+				}
+				</script>
 
 			<br>
 			
