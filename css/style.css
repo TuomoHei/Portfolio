@@ -74,6 +74,12 @@ table, th, td
 	border-collapse: collapse;
 	padding: 15px;
 }
+
+map
+{
+	height: 500px;
+	width: 100%;
+}
 	
 footer
 {
