@@ -4,24 +4,39 @@
 		<title>My Portfolio: Extras</title>
 		<link rel="stylesheet" href="css/style.css">
 		<script>
-			var x = document.getElementById("demo");
-		
-			function getLocation()
+			function showLocation()
 			{
 				if (navigator.geolocation)
 				{
-					navigator.geolocation.watchPosition(showPosition);
+					navigator.geolocation.getCurrentPosition(showPosition);
 				}
 				
 				else
 				{
-					x.innerHTML = "Your browser does not support geolocation";
+					alert("Your browser does not support geolocation");
 				}
 			}
 			
 			function showPosition(position)
 			{
-				x.innerHTML = "Latitude: " + position.coords.latitude + "<br>Longitude: " + position.coords.longitude;
+				alert("Latitude: " + position.coords.latitude + " Longitude: " + position.coords.longitude);
+			}
+			
+			function allowDrop(ev)
+			{
+				ev.preventDefault();
+			}
+			
+			function drag(ev)
+			{
+				ev.dataTransfer.setData("text", ev.target.id);
+			}
+			
+			function drop(ev)
+			{
+				ev.preventDefault();
+				var data = ev.dataTransfer.getData("text");
+				ev.target.appendChild(document.getElementById(data));
 			}
 		</script>
 	</head>
@@ -69,10 +84,15 @@
 			<br>
 			<p>Audio integration</p>
 			<br>
-			<p>Click below to get your position</p>
-			<button onclick="getLocation()"> Click </button>
-			<p id="demo"></p>
-			
+			<p>Click below to get your position (this will open alert box)</p>
+			<button onclick="showLocation()"> Click </button>
+			<br>
+			<p>Drag & drop</p>
+			<br>
+			<div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)">
+			<img src="images/dnd.png" draggable="true" ondragstart="drag(event)" id="drag1" width="88" height="88"></div>
+			</div>
+			<div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
 		</article>
 		
 		<footer>
