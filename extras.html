@@ -4,7 +4,9 @@
 		<title>My Portfolio: Extras</title>
 		<link rel="stylesheet" href="css/style.css">
 		<script>
-			function showLocation()
+			var x = document.getElementById("demo");
+		
+			function getLocation()
 			{
 				if (navigator.geolocation)
 				{
@@ -13,20 +15,13 @@
 				
 				else
 				{
-					alert("Your browser does not support geolocation");
+					x.innerHTML = "Your browser does not support geolocation";
 				}
 			}
 			
 			function showPosition(position)
 			{
-				alert("Latitude: " + position.coords.latitude + " Longitude: " + position.coords.longitude);
-			}
-			
-			function initMap()
-			{
-				var location = {lat: position.coords.latitude, lng: position.coords.longitude};
-				var map = new google.maps.Map(document.getElementById("map"), {zoom: 4, center: location});
-				var marker = new google.maps.Marker({position: location, map: map});
+				x.innerHTML = "Latitude: " + position.coords.latitude + "<br>Longitude: " + position.coords.longitude;
 			}
 		</script>
 	</head>
@@ -75,12 +70,10 @@
 			<p>Audio integration</p>
 			<br>
 			<p>Click below to get your position</p>
-			<button onclick="showLocation()"> Click </button>
+			<button onclick="getLocation()"> Click </button>
+			<p id="demo"></p>
+			
 		</article>
-		
-		<div id="map"> </div>
-		
-		<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCG8uQ95wWVWatsocr7nGnz3rmPpvL7FQ0&callback=initMap"></script>
 		
 		<footer>
 			copyright 2018
