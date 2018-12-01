@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/issues</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/pulls</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/projects</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commits/master</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/find/master</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commits?author=TuomoHei</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/04bf4c27b590fc6649455620a61012e897297e7a</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/83e37fb2832e437b0ae91a86817853949192dfe0</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/95c53a12b5966fbb87858ebd4b1dd744f41cf9b2</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/b0e87c97e8a1daa7d4ffbc001a265833564b3c47</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/labels</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/milestones</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/compare</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/04ad77b7c9ccdf24a85efc282830c863a32c93de</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/6b50a11178a5139d5542e259eaec8f5192c305e9</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/ab34a8abeaaf26aaa8facc30fcbb5d1defd823ed</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/f34deaac85bdd63844fb957efb8c904114fbe1db</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/1dde5fcc17f30bef538dd80f9f1c45a48f49e3f2</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/6e0aa2fbdcb8744ea7c82d377501b57e4157e223</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/9dfca0264986667495645720661e5114ff90a2d8</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/774fbcb26322f1289de8cd447a0a57cc5b2b0463</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/0d328856e7e5ead8cd9ad71bda6a58e81acb89f3</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/23d83d6519392cb81d17db2a976d023d9ec6b12d</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/ea1b4e330feddcc2346f86d9feb1af4a854aa4d4</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/e0935a686582e7e1375bc484aaf59b9cd2ccc289</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/aa26e5c7c4e3402aa00091c6916948eea7bc6ebe</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/2f346fd48ff0c94b5cc35c92e41ec23eefe1f9c3</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/113d01b3589b8dc117c3169f0b036da072e58fe2</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/40947a2687fc232979b2bce7bc80ac1b05e4a75b</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/b5b59bab6e15a6019f94389fbd807d9d39746cf0</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/f5ee15703a0badf295c718992087f10a0b4c2c37</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/549027af81d45fde5aed3bb9e81c4d367c57c49c</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/3b7f7a63e2db7f4cf969dc46757adae94c71f823</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/6a6b7d796492078bb646fc1a1718fd1f5bac5023</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/b89a0c3536c2a84336279f205fa7c501387cbe99</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/49da13f54648550da2114ce3c55bcbd93aa1b08f</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/23747f1a7acd3264173a5c9003213b0d81d5328b</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/ad18fb446cd634d16a11935d2e0c443157dcb3fc</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/8da8ce6fa0f938e71a0ec5562b4c3a3de532b59b</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/1ed9e834159b17ca2dd16bc543c99786bdc5739e</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/c657c114ccf7674012b541922abe4f7cd75946fd</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/7ecdb90db6d58222ce16966ebebb2177eb359fec</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/11ce8c8bddce5a9dffc4128fc83f9ff395c827a3</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/03fc0e52ea5b265265bc2e7987b0fabf0356c60d</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/71b4294c174636f114b258f41fde1918e8848fe9</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/04bf4c27b590fc6649455620a61012e897297e7a?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/04bf4c27b590fc6649455620a61012e897297e7a?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/83e37fb2832e437b0ae91a86817853949192dfe0?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/83e37fb2832e437b0ae91a86817853949192dfe0?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/95c53a12b5966fbb87858ebd4b1dd744f41cf9b2?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/95c53a12b5966fbb87858ebd4b1dd744f41cf9b2?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/b0e87c97e8a1daa7d4ffbc001a265833564b3c47?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/b0e87c97e8a1daa7d4ffbc001a265833564b3c47?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/labels?sort=name-asc</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/labels?sort=name-desc</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/labels?sort=count-desc</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/labels?sort=count-asc</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/labels/bug</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/labels/duplicate</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/labels/enhancement</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/labels/good%20first%20issue</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/labels/help%20wanted</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/labels/invalid</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/labels/question</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/labels/wontfix</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/milestones?state=open</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/milestones?state=closed</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/04ad77b7c9ccdf24a85efc282830c863a32c93de?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/04ad77b7c9ccdf24a85efc282830c863a32c93de?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/6b50a11178a5139d5542e259eaec8f5192c305e9?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/6b50a11178a5139d5542e259eaec8f5192c305e9?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/ab34a8abeaaf26aaa8facc30fcbb5d1defd823ed?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/ab34a8abeaaf26aaa8facc30fcbb5d1defd823ed?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/f34deaac85bdd63844fb957efb8c904114fbe1db?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/f34deaac85bdd63844fb957efb8c904114fbe1db?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/1dde5fcc17f30bef538dd80f9f1c45a48f49e3f2?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/1dde5fcc17f30bef538dd80f9f1c45a48f49e3f2?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/6e0aa2fbdcb8744ea7c82d377501b57e4157e223?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/6e0aa2fbdcb8744ea7c82d377501b57e4157e223?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/9dfca0264986667495645720661e5114ff90a2d8?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/9dfca0264986667495645720661e5114ff90a2d8?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/774fbcb26322f1289de8cd447a0a57cc5b2b0463?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/774fbcb26322f1289de8cd447a0a57cc5b2b0463?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/0d328856e7e5ead8cd9ad71bda6a58e81acb89f3?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/0d328856e7e5ead8cd9ad71bda6a58e81acb89f3?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/23d83d6519392cb81d17db2a976d023d9ec6b12d?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/23d83d6519392cb81d17db2a976d023d9ec6b12d?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/ea1b4e330feddcc2346f86d9feb1af4a854aa4d4?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/ea1b4e330feddcc2346f86d9feb1af4a854aa4d4?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/e0935a686582e7e1375bc484aaf59b9cd2ccc289?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/e0935a686582e7e1375bc484aaf59b9cd2ccc289?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/aa26e5c7c4e3402aa00091c6916948eea7bc6ebe?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/aa26e5c7c4e3402aa00091c6916948eea7bc6ebe?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/2f346fd48ff0c94b5cc35c92e41ec23eefe1f9c3?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/2f346fd48ff0c94b5cc35c92e41ec23eefe1f9c3?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/113d01b3589b8dc117c3169f0b036da072e58fe2?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/113d01b3589b8dc117c3169f0b036da072e58fe2?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/40947a2687fc232979b2bce7bc80ac1b05e4a75b?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/40947a2687fc232979b2bce7bc80ac1b05e4a75b?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/b5b59bab6e15a6019f94389fbd807d9d39746cf0?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/b5b59bab6e15a6019f94389fbd807d9d39746cf0?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/f5ee15703a0badf295c718992087f10a0b4c2c37?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/f5ee15703a0badf295c718992087f10a0b4c2c37?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/549027af81d45fde5aed3bb9e81c4d367c57c49c?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/549027af81d45fde5aed3bb9e81c4d367c57c49c?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/3b7f7a63e2db7f4cf969dc46757adae94c71f823?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/3b7f7a63e2db7f4cf969dc46757adae94c71f823?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/6a6b7d796492078bb646fc1a1718fd1f5bac5023?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/6a6b7d796492078bb646fc1a1718fd1f5bac5023?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/b89a0c3536c2a84336279f205fa7c501387cbe99?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/b89a0c3536c2a84336279f205fa7c501387cbe99?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/49da13f54648550da2114ce3c55bcbd93aa1b08f?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/49da13f54648550da2114ce3c55bcbd93aa1b08f?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/23747f1a7acd3264173a5c9003213b0d81d5328b?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/23747f1a7acd3264173a5c9003213b0d81d5328b?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/ad18fb446cd634d16a11935d2e0c443157dcb3fc?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/ad18fb446cd634d16a11935d2e0c443157dcb3fc?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/8da8ce6fa0f938e71a0ec5562b4c3a3de532b59b?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/8da8ce6fa0f938e71a0ec5562b4c3a3de532b59b?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/1ed9e834159b17ca2dd16bc543c99786bdc5739e?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/1ed9e834159b17ca2dd16bc543c99786bdc5739e?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/c657c114ccf7674012b541922abe4f7cd75946fd?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/c657c114ccf7674012b541922abe4f7cd75946fd?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/7ecdb90db6d58222ce16966ebebb2177eb359fec?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/7ecdb90db6d58222ce16966ebebb2177eb359fec?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/11ce8c8bddce5a9dffc4128fc83f9ff395c827a3?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/11ce8c8bddce5a9dffc4128fc83f9ff395c827a3?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/03fc0e52ea5b265265bc2e7987b0fabf0356c60d?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/03fc0e52ea5b265265bc2e7987b0fabf0356c60d?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/76165a75d49067f48a0dc5022a50ec66626df2f2</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/71b4294c174636f114b258f41fde1918e8848fe9?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/71b4294c174636f114b258f41fde1918e8848fe9?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/5346bec3d203b25fd51d60cca8f1dfd816e2bc0e</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/76165a75d49067f48a0dc5022a50ec66626df2f2?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/76165a75d49067f48a0dc5022a50ec66626df2f2?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/597b451352175fb841b3743507058f7d948a67fe</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/5346bec3d203b25fd51d60cca8f1dfd816e2bc0e?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/5346bec3d203b25fd51d60cca8f1dfd816e2bc0e?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/e782c29462d3e9a6462f2d49c4110852ab10487c</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/597b451352175fb841b3743507058f7d948a67fe?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/597b451352175fb841b3743507058f7d948a67fe?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/4c7bdea159225d4cfbf58af4b5010fc00ac85350</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/e782c29462d3e9a6462f2d49c4110852ab10487c?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/e782c29462d3e9a6462f2d49c4110852ab10487c?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/8a33a683c1600ae5bc78baf2257924b8190532d7</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/4c7bdea159225d4cfbf58af4b5010fc00ac85350?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/4c7bdea159225d4cfbf58af4b5010fc00ac85350?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/ecbcdbeb48eedf919d292b4e2e5495b4b8815c2d</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/8a33a683c1600ae5bc78baf2257924b8190532d7?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/8a33a683c1600ae5bc78baf2257924b8190532d7?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/c126b8a2dcc59da44a3b8b378dbebd40353dd389</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/ecbcdbeb48eedf919d292b4e2e5495b4b8815c2d?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/ecbcdbeb48eedf919d292b4e2e5495b4b8815c2d?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/c126b8a2dcc59da44a3b8b378dbebd40353dd389?diff=unified</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://github.com/TuomoHei/Portfolio/commit/c126b8a2dcc59da44a3b8b378dbebd40353dd389?diff=split</loc>
+  <lastmod>2018-12-01T17:54:07+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+
+
+</urlset>
